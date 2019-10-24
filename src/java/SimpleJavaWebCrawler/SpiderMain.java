@@ -1,4 +1,4 @@
-package JavaWebCrawler;
+package SimpleJavaWebCrawler;
 
 public class SpiderMain {
 
