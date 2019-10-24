@@ -19,4 +19,5 @@ What I want from my specific crawler is the ability to not only target the links
 Will improve on Simple JWC to fit the specifications necessary for my future application. 
 
 
- 
+### Source 
+http://www.netinstructions.com/how-to-make-a-simple-web-crawler-in-java/
